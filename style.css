@@ -8,8 +8,8 @@
 
 img {
   position: absolute;
-  left: 20;
-  right: 0;
+  top: 40px;
+  left: 40px;
 }
 
 body {
@@ -22,4 +22,6 @@ body {
   background-color: white;
   margin: 150px 20px;
   border-radius: 20px;
+  text-align: center;
+  padding-top: 150px;
 }
